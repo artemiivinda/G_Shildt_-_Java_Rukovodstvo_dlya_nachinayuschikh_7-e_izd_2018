@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author arttarasov
+ *
+ */
+module Java {
+}

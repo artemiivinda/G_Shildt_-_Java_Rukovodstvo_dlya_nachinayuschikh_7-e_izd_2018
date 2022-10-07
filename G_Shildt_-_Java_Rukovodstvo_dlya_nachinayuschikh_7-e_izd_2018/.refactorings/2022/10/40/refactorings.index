@@ -1,0 +1,254 @@
+1664784686978	Rename type 'MyIf'
+1664787051855	Move compilation unit
+1664885338609	Move compilation unit
+1664988483310	Rename package 'BufferedReader'
+1664989329246	Rename package 'CompFiles'
+1664989342495	Rename package 'CopyFile'
+1664989364589	Rename package 'CopyFileEx'
+1664989394825	Rename package 'CustopExceptDemo'
+1664989409099	Rename package 'DefaultMethodDemo'
+1664989425684	Rename package 'ExcDemo1'
+1664989435567	Rename package 'ExcDemo2'
+1664989445529	Rename package 'ExcDemo3'
+1664989469795	Rename package 'ExcDemo4'
+1664989482475	Rename package 'ExcDemo5'
+1664989509881	Rename package 'FinallyDemo'
+1664989534270	Rename package 'IConstD'
+1664989546352	Rename package 'IFExtend'
+1664989558600	Rename package 'MultiCatch'
+1664989572078	Rename package 'NestTrys'
+1664989584055	Rename package 'PrintWriterDemo'
+1664989597973	Rename package 'RandomAccessDemo'
+1664989608631	Rename package 'ReadBytes'
+1664989618392	Rename package 'ReadChars'
+1664989630241	Rename package 'ReadLines'
+1664989641716	Rename package 'RethrowDemo'
+1664989653323	Rename package 'RWData'
+1664989667218	Rename package 'ShowFile'
+1664989678355	Rename package 'ShowFileEx'
+1664989687491	Rename package 'ThrowDemo'
+1664989695950	Rename package 'ThrowsDemo'
+1664989704727	Rename package 'UseThrowableMethods'
+1664989714367	Rename package 'WriteDemo'
+1664989790557	Rename package 'bookpack'
+1664989839477	Rename package 'bookpackext'
+1664990030539	Rename package 'com.example.part_001'
+1664991693237	Rename package 'IFDemo'
+1664991701764	Rename compilation unit 'IFDemo.java'
+1664992218807	Delete element
+1665072733857	Delete element
+1665084245051	Delete element
+1665084642399	Rename package 'Kbin'
+1665084653221	Rename compilation unit 'Kbin.java'
+1665084991575	Delete element
+1665088640559	Rename package 'AvgNums'
+1665088663497	Rename package 'DtoS'
+1665088674971	Rename package 'FileHelp'
+1665088687913	Rename package 'KtoD'
+1665088706710	Rename package 'ThreadVariations'
+1665088717897	Rename package 'UseThreads'
+1665135728905	Rename package 'ExtendThread'
+1665135745598	Rename package 'JoinThreads'
+1665135758804	Rename package 'MoreThreads'
+1665135771642	Rename package 'MoreThreadsEx'
+1665135790402	Rename package 'PriorityDemo'
+1665135855518	Move packages
+1665135906200	Move packages
+1665135912958	Delete element
+1665136037363	Rename source folder 'Part_15'
+1665136175600	Delete element
+1665136262512	Delete element
+1665136356033	Delete element
+1665136443169	Delete element
+1665136534078	Delete element
+1665136630770	Delete element
+1665136708999	Delete element
+1665136800452	Delete element
+1665136873559	Delete element
+1665136899091	Rename package 'TwoVehicle'
+1665136955969	Delete element
+1665137030266	Delete element
+1665137097499	Delete element
+1665137107803	Delete element
+1665137203592	Delete element
+1665137271773	Delete element
+1665137315584	Delete element
+1665137385559	Delete element
+1665137427149	Delete element
+1665137468844	Delete element
+1665137552357	Delete element
+1665137590133	Delete element
+1665137631499	Delete element
+1665137694524	Delete element
+1665137734402	Delete element
+1665137772796	Delete element
+1665137828472	Delete element
+1665137880087	Delete element
+1665137923216	Delete element
+1665137969805	Delete element
+1665138013714	Delete element
+1665138065524	Delete element
+1665138758818	Delete element
+1665138844520	Delete element
+1665138959447	Delete element
+1665139094469	Delete element
+1665139165986	Delete element
+1665139226098	Delete element
+1665139335601	Delete element
+1665139572283	Delete element
+1665139648206	Delete element
+1665140176276	Delete element
+1665140567439	Delete element
+1665140672889	Delete element
+1665140744289	Delete element
+1665140844706	Delete element
+1665143332446	Delete element
+1665143407119	Delete element
+1665143470463	Delete element
+1665143589826	Delete elements
+1665143793196	Delete element
+1665143906969	Delete element
+1665144152872	Rename package 'AccessDemo'
+1665144174328	Rename package 'FSDemo'
+1665144196149	Rename package 'AccessDemo_001'
+1665144208319	Rename package 'FSDemo_002'
+1665144234649	Rename package 'PassOb'
+1665144249828	Rename package 'CallByValue'
+1665144261107	Rename package 'CallByRef'
+1665144273903	Rename package 'ErrMsg'
+1665144294090	Rename package 'ErrInfo'
+1665144310201	Rename package 'OverloadDemo'
+1665144332645	Rename package 'TypeConv'
+1665144371434	Rename package 'TypeConv2'
+1665144389255	Rename package 'OverloadConsDemo'
+1665144405470	Rename package 'SumDemo'
+1665144428878	Rename package 'Qdemo2'
+1665144444423	Rename package 'Recursion'
+1665144462657	Rename package 'SDemo'
+1665144476788	Rename package 'SDemo2'
+1665144494262	Rename package 'SDemo3'
+1665144516405	Rename package 'QSDemo'
+1665144533710	Rename package 'NestedClassDemo'
+1665144556087	Rename package 'LocalClassDemo'
+1665144579021	Rename package 'VarArgs'
+1665144592386	Rename package 'VarArgs2'
+1665144605277	Rename package 'VarArgs3'
+1665144914066	Move package
+1665144939021	Rename package 'com.example.Shapes'
+1665144982159	Move packages
+1665144994729	Rename package 'com.example.Shapes2'
+1665145003796	Rename package 'com.example.Shape3'
+1665145021719	Rename package 'com.example.Shapes4'
+1665145034423	Rename package 'com.example.Shapes5'
+1665145047767	Rename package 'com.example.Shapes6'
+1665145057045	Rename package 'com.example.Shapes7'
+1665145073760	Rename package '_003_Shape3'
+1665145104914	Move package
+1665145119083	Rename package 'com.example.UseSuper'
+1665145173347	Move package
+1665145186768	Rename package 'com.example.TruckDemo'
+1665145208061	Rename package '_006_Shapes6'
+1665145225868	Move package
+1665145241102	Rename package 'com.example.OrderOfConsruction'
+1665145271746	Move package
+1665145282551	Rename package 'com.example.SupSubRef'
+1665145300009	Rename package '_007_Shapes7'
+1665145366069	Rename package '_005_UseSuper'
+1665145383553	Rename package '_010_Shapes7'
+1665145389566	Rename package '_009_SupSubRef'
+1665145396561	Rename package '_008_OrderOfConsruction'
+1665145402209	Rename package '_007_Shapes6'
+1665145407968	Rename package '_006_TruckDemo'
+1665145462423	Move package
+1665145476135	Rename package 'com.example.Override'
+1665145495286	Move package
+1665145508343	Rename package 'com.example.Overload'
+1665145540605	Move package
+1665145552574	Rename package 'com.example.DynDispDemo'
+1665145577045	Move package
+1665145588742	Rename package 'com.example.DynShapes'
+1665145611761	Move package
+1665145626284	Rename package 'com.example.AbsShape'
+1665145649838	Move package
+1665145662346	Rename package 'com.example.FinalD'
+1665145838597	Move package
+1665145861542	Rename package 'com.example.bookpack'
+1665145932882	Move package
+1665145950853	Rename package 'com.example.bookpackext'
+1665145971972	Move package
+1665145986077	Rename package 'com.example.SeriesDemo'
+1665146016965	Move package
+1665146048190	Rename package 'com.example.SeriesDemo2'
+1665146090195	Move package
+1665146102873	Rename package 'com.example.IQDemo'
+1665146119317	Move package
+1665146132963	Rename package 'com.example.IConstD'
+1665146152929	Move package
+1665146165951	Rename package 'com.example.IFExtend'
+1665146188616	Move package
+1665146205605	Rename package 'com.example.DefaultMethodDemo'
+1665146263543	Move package
+1665146275326	Rename package 'com.example.ExcDemo1'
+1665146289500	Move package
+1665146303091	Rename package 'com.example.ExcDemo2'
+1665146336797	Move package
+1665146350936	Rename package 'com.example.ExcDemo3'
+1665146370645	Move packages
+1665146382539	Rename package 'com.example.ExcDemo4'
+1665146390159	Rename package 'com.example.ExcDemo5'
+1665146406448	Move package
+1665146417958	Rename package 'com.example.NestTrys'
+1665146438742	Move package
+1665146448990	Rename package 'com.example.ThrowDemo'
+1665146466199	Move package
+1665146476392	Rename package 'com.example.RethrowDemo'
+1665146488875	Move package
+1665146498794	Rename package 'com.example.UseThrowableMethods'
+1665146521438	Move package
+1665146531700	Rename package 'com.example.FinallyDemo'
+1665146551370	Move package
+1665146564032	Rename package 'com.example.ThrowsDemo'
+1665146583965	Move package
+1665146595387	Rename package 'com.example.MultiCatch'
+1665146615890	Move package
+1665146627137	Rename package 'com.example.CustopExceptDemo'
+1665146801113	Move package
+1665146812109	Rename package 'com.example.ReadBytes'
+1665146828796	Move package
+1665146838039	Rename package 'com.example.WriteDemo'
+1665146854732	Move package
+1665146862923	Rename package 'com.example.ShowFile'
+1665146878630	Move package
+1665146888062	Rename package 'com.example.ShowFileEx'
+1665146908571	Move package
+1665146917820	Rename package 'com.example.CopyFile'
+1665147028276	Move package
+1665147038989	Rename package 'com.example.CopyFileEx'
+1665147056190	Move package
+1665147065156	Rename package 'com.example.RWData'
+1665147078378	Move package
+1665147092083	Rename package 'com.example.CompFiles'
+1665147105198	Move package
+1665147128502	Rename package 'com.example.RandomAccessDemo'
+1665147149311	Move package
+1665147162790	Rename package 'com.example.ReadChars'
+1665147173214	Move package
+1665147183882	Rename package 'com.example.ReadLines'
+1665147199239	Move package
+1665147211465	Rename package 'com.example.PrintWriterDemo'
+1665147223609	Move package
+1665147233039	Rename package 'com.example.KtoD'
+1665147242137	Move package
+1665147252994	Rename package 'com.example.DtoS'
+1665147269533	Move package
+1665147279434	Rename package 'com.example.AvgNums'
+1665147338406	Move package
+1665147349485	Rename package 'com.example.FileHelp'
+1665147382083	Move packages
+1665147405793	Rename package 'com.example.UseThreads'
+1665147422894	Rename package 'com.example.ThreadVariations'
+1665147443392	Rename package 'com.example.ExtendThread'
+1665147461093	Rename package 'com.example.MoreThreads'
+1665147480096	Rename package 'com.example.MoreThreadsEx'
+1665147499427	Rename package 'com.example.JoinThreads'
+1665147515315	Rename package 'com.example.PriorityDemo'
