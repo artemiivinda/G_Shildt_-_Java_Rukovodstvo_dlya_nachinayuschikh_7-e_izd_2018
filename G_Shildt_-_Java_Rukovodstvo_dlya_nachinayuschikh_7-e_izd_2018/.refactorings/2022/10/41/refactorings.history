@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Quadratic&apos; to &apos;_010_Quadratic&apos;&#x0A;- Original project: &apos;G_Shildt_-_Java_Rukovodstvo_dlya_nachinayuschikh_7-e_izd_2018&apos;&#x0A;- Original element: &apos;G_Shildt_-_Java_Rukovodstvo_dlya_nachinayuschikh_7-e_izd_2018/Part_012/Quadratic&apos;&#x0A;- Renamed element: &apos;G_Shildt_-_Java_Rukovodstvo_dlya_nachinayuschikh_7-e_izd_2018/Part_012/_010_Quadratic&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Quadratic&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/Part_012&lt;Quadratic" name="_010_Quadratic" qualified="false" references="true" stamp="1665913537403" textual="false" version="1.0"/>
+</session>
