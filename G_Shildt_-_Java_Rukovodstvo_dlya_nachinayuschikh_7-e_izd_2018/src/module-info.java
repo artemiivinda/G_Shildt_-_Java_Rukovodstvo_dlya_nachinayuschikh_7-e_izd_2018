@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author arttarasov
- *
- */
-module Java {
-}
